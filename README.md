@@ -1,0 +1,2 @@
+# cpuminer-multi
+cpu miner
